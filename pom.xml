@@ -284,15 +284,15 @@
           <xmlOutput>true</xmlOutput>
           <failOnError>false</failOnError>
         </configuration>
-        <executions>
-          <execution>
-            <id>analyse-compile</id>
-            <phase>compile</phase>
-            <goals>
-              <goal>check</goal>
-            </goals>
-          </execution>
-        </executions>
+<!--        <executions>-->
+<!--          <execution>-->
+<!--            <id>analyse-compile</id>-->
+<!--            <phase>compile</phase>-->
+<!--            <goals>-->
+<!--              <goal>check</goal>-->
+<!--            </goals>-->
+<!--          </execution>-->
+<!--        </executions>-->
       </plugin>
 
     </plugins>
